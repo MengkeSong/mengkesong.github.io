@@ -183,6 +183,11 @@ body {
     border: 1px solid #e2e8f0;
     width: 100%;
 }
+.sub-title2 {
+    font-size: 16px; /* 设置一个比 h1 小的字号 */
+    color: white; /* 可以设置颜色 */
+    margin-top: 10px; /* 调整与 h1 的间距 */
+}
 
 .video-container video {
     width: 100%;
